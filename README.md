@@ -4,4 +4,4 @@ demo for the project
 
 # color
 
-red, white
+red, white and green represent the flag.
