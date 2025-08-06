@@ -1,7 +1,2 @@
-# project2
+# new project
 
-demo for the project
-
-# color
-
-red, white and green represent the flag.
